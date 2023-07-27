@@ -1,0 +1,11 @@
+**Herencia:** Es un concepto de la programación orientada a objetos en el cual una clase puede heredar atributos y métodos de otra clase, permitiendo reutilizar y extender el código. La clase que hereda se llama "clase derivada" o "subclase", y la clase de la que se heredan los atributos y métodos se llama "clase base" o "superclase".
+
+**Cohesión:** Es un principio de diseño que se refiere al grado en que los elementos dentro de una clase o módulo están relacionados y enfocados en una tarea específica. Una alta cohesión implica que los componentes de un módulo trabajan juntos y tienen una función bien definida, lo que facilita la mantenibilidad y reutilización del código.
+
+**Abstracción:** Es un concepto que permite modelar objetos del mundo real como entidades abstractas en el código. Se enfoca en lo esencial de un objeto y oculta los detalles complejos, proporcionando una interfaz clara y simplificada para interactuar con el objeto.
+
+**Polimorfismo:** Es la capacidad de un objeto para tomar diferentes formas y comportarse de manera diferente según el contexto. En la programación orientada a objetos, esto se logra mediante el uso de interfaces comunes y métodos con el mismo nombre en diferentes clases, permitiendo tratar objetos de distintas clases de manera uniforme.
+
+**Acoplamiento:** Es el grado de dependencia entre dos módulos o clases. Un acoplamiento bajo indica que los módulos están poco interconectados y pueden funcionar independientemente. Un acoplamiento alto implica una mayor dependencia, lo que puede hacer que el código sea más difícil de mantener y modificar.
+
+**Encapsulamiento:** Es el concepto de ocultar los detalles internos de un objeto y exponer solo la interfaz necesaria para interactuar con él. Esto permite proteger los datos y comportamientos del objeto, evitando que se accedan o modifiquen directamente desde fuera de la clase.
