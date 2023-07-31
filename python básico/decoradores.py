@@ -10,7 +10,7 @@ def decorador(func):
 
 
 # Uso del decorador
-@decorador
+# @decorador
 def funcion_ejemplo():
     print("¡Esta es una función de ejemplo!")
 
