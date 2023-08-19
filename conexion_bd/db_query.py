@@ -11,7 +11,7 @@ cur = conn.cursor()
 
 # execute a statement
 print("PostgreSQL database version:")
-cur.execute("SELECT * from vendors")
+cur.execute("SELECT * from estudiantes")
 res = []
 row = cur.fetchone()
 while row is not None:

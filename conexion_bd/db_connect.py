@@ -12,7 +12,8 @@ cur = conn.cursor()
 
 # execute a statement
 print("PostgreSQL database version:")
-cur.execute("SELECT version()")
+query = "SELECT version()"
+cur.execute(query)
 
 # display the PostgreSQL database server version
 db_version = cur.fetchone()
